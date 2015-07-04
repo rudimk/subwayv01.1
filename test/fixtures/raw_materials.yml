@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  period: 2015-07-04
+  quantity: 1
+  store_id: 
+  sub_order_id: 
+
+two:
+  name: MyString
+  period: 2015-07-04
+  quantity: 1
+  store_id: 
+  sub_order_id: 
