@@ -3,4 +3,5 @@ class Order < ActiveRecord::Base
   has_one :customer_address
   has_many :sub_orders
   has_one :order_source
+  has_one :order_status
 end
